@@ -97,6 +97,11 @@
                     <i class="fab fa-telegram"></i>
                   </a>
                 </li>
+		<li class="nav-item">
+                  <a href="#" class="nav-link tm-social-link">
+                    <i class="fab fa-dribbble"></i>
+                  </a>
+                </li>
               </ul>
               <footer class="text-center text-white small">
                 <p class="mb--0 mb-2">Copyright 2020-2021 HumanCharity Coin</p>
@@ -255,7 +260,7 @@
           </div>
 
           <div class="tm-section-wrap bg-white">
-            <section id="coinspecs" class="row tm-section">
+            <section id="wallets" class="row tm-section">
               <div class="col-12 tm-section-pad">
                   <div class="tm-flex-item-left">
                       <div class="tm-w-80">
