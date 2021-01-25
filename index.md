@@ -69,6 +69,12 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a href="#exchanges" class="nav-link">
+                    <span class="d-inline-block mr-3">Exchanges</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a href="#talk" class="nav-link">
                     <span class="d-inline-block mr-3">Let's Talk</span>
                     <span class="d-inline-block tm-white-rect"></span>
@@ -270,8 +276,26 @@
                             You can find our wallets here on <a href="https://github.com/Human-Charity-Coin/HCC-wallet/releases">GitHub</a>
                           </p>
                           <p>
-                            We currently support windows 32 bit & 64 bit and ubuntu 18 wallets, we have plans to add support for mac wallets. Both iOS and Android wallets are currently in development
+                            We currently support windows 32 bit & 64 bit and ubuntu 18 wallets, The latest version of wallets is v1.1.0 which can be found at the link above, we have plans to add support for mac wallets. Both iOS and Android wallets are currently in development
                           </p>
+                          
+                      </div>
+                  </div> 
+              </div>                             
+            </section>
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="exchanges" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">Exchanges</h2>
+                          
+                          <p>
+                            HumanCharityCoin is currently listed on <a href="https://stakecube.net/app/exchange/HCC_BTC">Stakecube</a>
+                          </p>
+                          
                           
                       </div>
                   </div> 
