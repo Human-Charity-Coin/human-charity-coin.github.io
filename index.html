@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/templatemo-dream-pulse.css" />
     <link rel="stylesheet" href="css/table.css">
+    <link rel="icon" href="img/favicon.ico" type="image/ico">
   </head>
   <body>
     <main class="container-fluid">
