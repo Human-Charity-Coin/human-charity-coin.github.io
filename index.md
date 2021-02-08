@@ -82,6 +82,12 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a href="#mnhosts" class="nav-link">
+                    <span class="d-inline-block mr-3">MN Hosts</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a href="#talk" class="nav-link">
                     <span class="d-inline-block mr-3">Let's Talk</span>
                     <span class="d-inline-block tm-white-rect"></span>
@@ -327,7 +333,28 @@
               </div>                             
             </section>
           </div>
-            
+          
+          <div class="tm-section-wrap bg-white">
+            <section id="mnhosts" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">MN Hosts</h2>
+                          
+                          <p>
+                            HumanCharityCoin is currently listed on <a href="https://ihostmn.com/hostmn.php?coin=HCC">ihostmn</a>
+                          </p>
+                          <div>
+                            <img src="img/HumanCharityCoin-1.png" alt="ihostmn" width="300" height="250">
+                          </div>
+                          
+                          
+                      </div>
+                  </div> 
+              </div>                             
+            </section>
+          </div>
+
           <div class="tm-section-wrap bg-white">
             <section id="talk" class="row tm-section">
                 <div class="col-xl-6 mb-5">
