@@ -76,6 +76,12 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a href="#explorers" class="nav-link">
+                    <span class="d-inline-block mr-3">Explorers</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a href="#talk" class="nav-link">
                     <span class="d-inline-block mr-3">Let's Talk</span>
                     <span class="d-inline-block tm-white-rect"></span>
@@ -295,6 +301,24 @@
                           
                           <p>
                             HumanCharityCoin is currently listed on <a href="https://stakecube.net/app/exchange/HCC_BTC">Stakecube</a>
+                          </p>
+                          
+                          
+                      </div>
+                  </div> 
+              </div>                             
+            </section>
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="explorers" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">Explorers</h2>
+                          
+                          <p>
+                            HumanCharityCoin currently has 3 block explorers, They can be found here at <a href="http://144.202.101.177:3001/">Official explorer</a>, <a href="https://cryptoloverbots.com/explorer/HCC/#/">cryptoloverbots explorer</a> or at <a href="https://ihostmn.com/explorerinfo.php?coin=HCC">ihostmn explorer</a>
                           </p>
                           
                           
