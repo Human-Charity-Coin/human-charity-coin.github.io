@@ -88,6 +88,12 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a href="#tools" class="nav-link">
+                    <span class="d-inline-block mr-3">Developer Tools</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a href="#talk" class="nav-link">
                     <span class="d-inline-block mr-3">Let's Talk</span>
                     <span class="d-inline-block tm-white-rect"></span>
@@ -306,7 +312,7 @@
                           <h2 class="tm-color-primary tm-section-title mb-4">Exchanges</h2>
                           
                           <p>
-                            HumanCharityCoin is currently listed on <a href="https://stakecube.net/app/exchange/HCC_BTC">Stakecube</a>
+                            HumanCharityCoin is currently listed on <a href="https://v2.altmarkets.io/signup?refid=IDA72E6F124D">Altmarkets</a> and <a href="https://stakecube.net/app/exchange/HCC_BTC">Stakecube</a>
                           </p>
                           
                           
@@ -349,6 +355,25 @@
                           </div>
                           
                           
+                      </div>
+                  </div> 
+              </div>                             
+            </section>
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="tools" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">Developer Tools</h2>
+                          
+                          <p>
+                            HumanCharityCoin has a selection of tools to help you develop things for HCC such as <a href="https://github.com/Human-Charity-Coin/node-humancharitycoin/packages/616725">node-humancharitycoin</a>, This is a HumanCharityCoin client for Node.js
+                          </p>                         
+                          <p>
+                            You can also use our <a href="https://github.com/Human-Charity-Coin/humancharitycoin-code-snippets">code-snippets</a>. These code samples are for programmatically interacting with humancharitycoind and various other humancharitycoin APIs.
+                          </p>
                       </div>
                   </div> 
               </div>                             
