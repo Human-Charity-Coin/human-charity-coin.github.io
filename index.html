@@ -88,6 +88,18 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a href="#mnmonitor" class="nav-link">
+                    <span class="d-inline-block mr-3">MN Monitors</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#pricetracker" class="nav-link">
+                    <span class="d-inline-block mr-3">Price Trackers</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a href="#tools" class="nav-link">
                     <span class="d-inline-block mr-3">Developer Tools</span>
                     <span class="d-inline-block tm-white-rect"></span>
@@ -355,6 +367,38 @@
                           </div>
                           
                           
+                      </div>
+                  </div> 
+              </div>                             
+            </section>
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="mnmonitor" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">MN Monitors</h2>
+                          
+                          <p>
+                            HumanCharityCoin is currently listed on <a href="https://vaultwatch.eu/detail.php?coin=hcc">Vault Watch</a>
+                          </p>  
+                      </div>
+                  </div> 
+              </div>                             
+            </section>
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="pricetracker" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">Price Trackers</h2>
+                          
+                          <p>
+                            HumanCharityCoin is currently listed on <a href="https://coinpaprika.com/coin/hcc-human-charity-coin">CoinPaprika</a>
+                          </p>  
                       </div>
                   </div> 
               </div>                             
