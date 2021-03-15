@@ -52,6 +52,12 @@
                   </a>
                 </li>
                 <li class="nav-item">
+                  <a href="#whitepaper" class="nav-link">
+                    <span class="d-inline-block mr-3">White Paper</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
                   <a href="#coinspecs" class="nav-link">
                     <span class="d-inline-block mr-3">Coin Specs</span>
                     <span class="d-inline-block tm-white-rect"></span>
@@ -201,6 +207,24 @@
                     </p>
                 </div>
               </div>
+            </section>
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="whitepaper" class="row tm-section">
+              <div class="col-12 tm-section-pad">
+                  <div class="tm-flex-item-left">
+                      <div class="tm-w-80">
+                          <h2 class="tm-color-primary tm-section-title mb-4">White Paper</h2>
+                          
+                          <p>
+                            You can find our white paper here on <a href="https://github.com/Human-Charity-Coin/human-charity-coin.github.io/blob/main/white-paper/HCC_WP_Final.pdf">GitHub</a>
+                          </p>
+                          
+                          
+                      </div>
+                  </div> 
+              </div>                             
             </section>
           </div>
 
