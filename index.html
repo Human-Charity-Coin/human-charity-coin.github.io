@@ -348,7 +348,7 @@
                           <h2 class="tm-color-primary tm-section-title mb-4">Exchanges</h2>
                           
                           <p>
-                            HumanCharityCoin is currently listed on <a href="https://v2.altmarkets.io/signup?refid=IDA72E6F124D">Altmarkets</a> and <a href="https://stakecube.net/app/exchange/HCC_BTC">Stakecube</a>
+                            HumanCharityCoin is currently listed on <a href="https://v2.altmarkets.io/signup?refid=IDA72E6F124D">Altmarkets</a> with BTC and Doge pairings, We are also listed on <a href="https://stakecube.net/app/exchange/HCC_BTC">Stakecube</a> with a BTC pairing.
                           </p>
                           
                           
